@@ -21,6 +21,7 @@ public class payload {
 				+ "}\r\n"
 				+ "\r\n"
 				+ "";
+		
 	}
 	public static String CoursePrice()
 	{
@@ -63,6 +64,34 @@ public class payload {
 }
 	
 	
+	
+	
+	public static String AddBook() {
+		// TODO Auto-generated method stub
+		return "{\r\n"
+				+ "\r\n"
+				+ "\"name\":\"Learn Appium Automation with Java\",\r\n"
+				+ "\"isbn\":\"bcd\",\r\n"
+				+ "\"aisle\":\"227\",\r\n"
+				+ "\"author\":\"John foe\"\r\n"
+				+ "}\r\n"
+				+ "";
+	}
+	
+
+	
 }
+
+		
+		
+		
+			 
+
+
+		
+		
+		
+	
+
 
 
